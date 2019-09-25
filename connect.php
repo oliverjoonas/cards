@@ -1,5 +1,5 @@
 <?php
-function connect_db() {$servername = "localhost";$username = "cards";$password = "password";$dbname = "cards";
+function connect_db() {$servername = "localhost";$username = "a1702686";$password = "laTU4E23h";$dbname = "a1702686";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
